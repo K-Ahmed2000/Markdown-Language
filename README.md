@@ -1,2 +1,2 @@
 # Markdown-Language
-All basics code of markdown language
+All basics codes of Markdown language
